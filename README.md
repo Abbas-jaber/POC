@@ -4,6 +4,7 @@
 **Purpose:** Collection of PoC-style write-ups for recent CVEs discovered elsewhere. These notes explore the vulnerability, the exploit mechanics at a conceptual level, and safe lab reproduction guidance intended for defensive research, education, and responsible disclosure.
 
 ---
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/844a55c8-0fe5-47f1-82b1-b2e5652257bd" />
 
 ## ⚠️ IMPORTANT DISCLAIMER
 
